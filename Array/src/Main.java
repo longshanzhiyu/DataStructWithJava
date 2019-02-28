@@ -16,7 +16,7 @@ public class Main {
 //        }
 
         //java 1.7 开始支持 Array<Integer> arr = new Array<Integer>(20);
-        Array<Integer> arr = new Array<>(20);
+        Array<Integer> arr = new Array<>();
         for (int i=0; i< 10; i++)
             arr.addLast(i);
         System.out.println(arr);

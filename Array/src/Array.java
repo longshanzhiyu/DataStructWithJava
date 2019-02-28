@@ -47,12 +47,14 @@ public class Array<E> {
 
     //索引位置插入元素
     public void add(int index, E e) {
-        if (size == data.length) {
-            throw new IllegalArgumentException("AddLast failed. Array is full.");
-        }
         if (index <0 || index > size) {
             throw new IllegalArgumentException("AddLast failed. Array is full.");
         }
+
+        if (size == data.length) {
+            resize(2 * data.length);
+        }
+
         for (int i=size-1;i>=index; i--)
             data[i+1] = data[i];
 
@@ -89,6 +91,9 @@ public class Array<E> {
             data[i-1] = data[i];
         size --;
         data[size] = null; //loitering objects != memory leak
+
+        if (size == data.length /2)
+            resize(data.length/2);
         return ret;
     }
 
@@ -136,5 +141,12 @@ public class Array<E> {
         if (index<0 || index >=size)
         throw new IllegalArgumentException("Get failed. Index is illegal.");
         data[index] = e;
+    }
+
+    private void resize(int newCapacity) {
+        E[] newData = (E[])new Object[newCapacity];
+        for (int i=0; i<size; i++)
+            newData[i] = data[i];
+        data = newData;
     }
 }

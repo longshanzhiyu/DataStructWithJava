@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="662fe681-fbe5-4582-8af2-ec4bbbf1b34b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Stack/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/LinkedListStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Stack/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1497">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="438">
+              <caret line="156" column="19" selection-start-line="156" selection-start-column="19" selection-end-line="156" selection-end-column="19" />
               <folding>
                 <element signature="e#227#228#0" expanded="true" />
                 <element signature="e#264#265#0" expanded="true" />
@@ -83,8 +84,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="864" />
-    <option name="y" value="104" />
+    <option name="x" value="734" />
+    <option name="y" value="514" />
     <option name="width" value="1047" />
     <option name="height" value="922" />
   </component>
@@ -117,7 +118,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552361927321" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552366397698" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
   </component>
   <component name="RunDashboard">
@@ -161,12 +162,12 @@
       <updated>1552020415269</updated>
       <workItem from="1552020416636" duration="1107000" />
       <workItem from="1552275246527" duration="4393000" />
-      <workItem from="1552356873207" duration="4028000" />
+      <workItem from="1552356873207" duration="4800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9528000" />
+    <option name="totallyTimeSpent" value="10300000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -178,9 +179,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="864" y="104" width="1047" height="922" extended-state="0" />
+    <frame x="734" y="514" width="1047" height="922" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2597015" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2597015" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -190,7 +191,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.056626506" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.112048194" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.112048194" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
@@ -227,8 +228,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1497">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="438">
+          <caret line="156" column="19" selection-start-line="156" selection-start-column="19" selection-end-line="156" selection-end-column="19" />
           <folding>
             <element signature="e#227#228#0" expanded="true" />
             <element signature="e#264#265#0" expanded="true" />

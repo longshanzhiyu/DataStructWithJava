@@ -1,3 +1,5 @@
+import org.omg.Messaging.SYNC_WITH_TRANSPORT;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -9,6 +11,12 @@ public class Main {
         bst.preOrder();
         System.out.println();
 
-        System.out.println(bst);
+        bst.inOrder();
+        System.out.println();
+
+        bst.postOrder();
+        System.out.println();
+
+//        System.out.println(bst);
     }
 }

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03f6ed83-d35e-47df-af8d-b59109176db0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -14,34 +15,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="374">
+              <caret line="53" column="20" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="146" column="38" lean-forward="true" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
+            <state relative-caret-position="127">
+              <caret line="188" column="31" lean-forward="true" selection-start-line="188" selection-start-column="31" selection-end-line="188" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#465#466#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#550#551#0" expanded="true" />
-                <element signature="e#992#993#0" expanded="true" />
-                <element signature="e#1032#1033#0" expanded="true" />
-                <element signature="e#1428#1429#0" expanded="true" />
-                <element signature="e#1458#1459#0" expanded="true" />
-                <element signature="e#1747#1748#0" expanded="true" />
-                <element signature="e#1772#1773#0" expanded="true" />
-                <element signature="e#2057#2058#0" expanded="true" />
-                <element signature="e#2086#2087#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,14 +54,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/BST.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="936" />
-    <option name="y" value="158" />
+    <option name="x" value="848" />
+    <option name="y" value="98" />
     <option name="width" value="1047" />
     <option name="height" value="922" />
   </component>
@@ -102,7 +94,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552968000221" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553056954233" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -145,18 +137,19 @@
       <updated>1552630768483</updated>
       <workItem from="1552630774395" duration="313000" />
       <workItem from="1552873628215" duration="4671000" />
-      <workItem from="1552958135766" duration="6496000" />
+      <workItem from="1552958135766" duration="6856000" />
+      <workItem from="1553047831581" duration="1864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11480000" />
+    <option name="totallyTimeSpent" value="13704000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="936" y="158" width="1047" height="922" extended-state="0" />
+    <frame x="848" y="98" width="1047" height="922" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2597015" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26467663" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -165,7 +158,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23253012" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37228915" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -191,31 +184,22 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/BST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="127">
+          <caret line="188" column="31" lean-forward="true" selection-start-line="188" selection-start-column="31" selection-end-line="188" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BST.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="146" column="38" lean-forward="true" selection-start-line="146" selection-start-column="38" selection-end-line="146" selection-end-column="38" />
+        <state relative-caret-position="374">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#992#993#0" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#1458#1459#0" expanded="true" />
-            <element signature="e#1747#1748#0" expanded="true" />
-            <element signature="e#1772#1773#0" expanded="true" />
-            <element signature="e#2057#2058#0" expanded="true" />
-            <element signature="e#2086#2087#0" expanded="true" />
           </folding>
         </state>
       </provider>
